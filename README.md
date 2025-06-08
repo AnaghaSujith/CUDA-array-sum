@@ -3,7 +3,7 @@
 This project demonstrates the performance comparison between a **CPU-based** and a **CUDA GPU-based** approach to summing large arrays.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/AnaghaSujith/CUDA-array-sum/blob/main/cuda-array-sum.ipynb)
+https://colab.research.google.com/github/AnaghaSujith/CUDA-array-sum/blob/main/cuda_array_sum.ipynb)
 
 
 
