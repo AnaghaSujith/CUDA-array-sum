@@ -26,18 +26,10 @@ We sum a 40 million element array where every element is `1`:
 | `cuda_array_sum.ipynb`   | Main CUDA-enabled Jupyter notebook (Colab)       |
 | `array_sum2.cu`          | Standalone CUDA file (optional)                  |
 | `sample_output.txt`      | Sample output showing results & timings          |
-| `benchmark_results.csv`  | Test results for different array sizes           |
 | `assets/performance_chart.png` | Bar chart comparing GPU vs CPU timings     |
 
 ---
 
-## 📊 Sample Benchmark
-
-| Array Size | CPU Time (s) | GPU Time (s) |
-|------------|--------------|--------------|
-| 10M        | 0.025877     | 0.001019     |
-| 20M        | 0.052833     | 0.001932     |
-| 40M        | 0.109267     | 0.003739     |
 
  *See `assets/performance_chart.png` for graphical view.*
 
