@@ -45,9 +45,9 @@ We sum a 40 million element array where every element is `1`:
 
 ---
 
-## ▶️ How to Run on Colab
+## How to Run on Colab
 
-1. Click the badge above ☝️
+1. Click the Colab badge above 
 2. Make sure GPU is enabled:  
    `Runtime > Change runtime type > GPU`
 3. Run all cells
