@@ -2,7 +2,9 @@
 
 This project demonstrates the performance comparison between a **CPU-based** and a **CUDA GPU-based** approach to summing large arrays.
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/cuda-array-sum/blob/main/cuda_array_sum.ipynb)](https://colab.research.google.com/drive/1zIcm3BZH-BYT5OIh84N3a3vPSicL3Y9A?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/AnaghaSujith/cuda-array-sum/blob/main/cuda-array-sum.ipynb)
+
 
 ---
 
@@ -16,7 +18,7 @@ We sum a 40 million element array where every element is `1`:
 
 ---
 
-## 📂 Files
+## Files
 
 | File                     | Description                                      |
 |--------------------------|--------------------------------------------------|
