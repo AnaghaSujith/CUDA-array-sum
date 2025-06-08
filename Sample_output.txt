@@ -1,0 +1,7 @@
+
+Number of elements: 40000000
+Sum of array elements (GPU): 40000000
+GPU time: 0.003739 seconds
+Sum of array elements (CPU): 40000000
+CPU time: 0.109267 seconds
+Speedup (CPU time / GPU time): 29.22x
