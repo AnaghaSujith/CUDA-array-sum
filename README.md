@@ -24,7 +24,7 @@ We sum a 40 million element array where every element is `1`:
 | File                     | Description                                      |
 |--------------------------|--------------------------------------------------|
 | `cuda_array_sum.ipynb`   | Main CUDA-enabled Jupyter notebook (Colab)       |
-| `array_sum2.cu`          | Standalone CUDA file (optional)                  |
+| `array_sum2.cu`          | Standalone CUDA file                             |
 | `sample_output.txt`      | Sample output showing results & timings          |
 | `assets/performance_chart.png` | Bar chart comparing GPU vs CPU timings     |
 
